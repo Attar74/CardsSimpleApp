@@ -1,0 +1,9 @@
+/* .cont{
+    margin: 10px 40px;
+} */
+:host {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px 200px;
+}
